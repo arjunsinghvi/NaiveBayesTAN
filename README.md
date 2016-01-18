@@ -15,4 +15,4 @@ Python 2.7
 * <i>n</i>: Naive Bayes
 * <i>t</i>: TAN 
 
-TAN algorithm uses Prim's algorithm to find the maximal spannign tree.
+TAN algorithm uses Prim's algorithm to find the maximal spanning tree.
